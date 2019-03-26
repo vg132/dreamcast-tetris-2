@@ -1,0 +1,91 @@
+<theme>
+	<about>
+		<name>Space Theme</name>
+		<author>Viktor Gars</author>
+		<email>tetris@vgsoftware.com</email>
+		<url>http://www.vgsoftware.com/</url>
+		<description>
+			Space pictures take from Nasa (http://www.nasa.gov/)
+		</description>
+	</about>
+	<background>
+		<name>Stars</name>
+		<url>http://www.nasa.gov/</url>
+		<artist>Nasa</artist>
+		<description>Stars</description>
+		<path>/cd/themes/gtr/1.png</path>
+		<start-line>1</start-line>
+	</background>
+	<background>
+		<name>Earth</name>
+		<url>http://www.nasa.gov/</url>
+		<artist>Nasa</artist>
+		<description>Earth</description>
+		<path>/cd/themes/gtr/2.png</path>
+		<start-line>10</start-line>
+	</background>
+	<background>
+		<name>Face on Mars</name>
+		<url>http://www.nasa.gov/</url>
+		<artist>Nasa</artist>
+		<description>Face on Mars</description>
+		<path>/cd/themes/gtr/3.png</path>
+		<start-line>20</start-line>
+	</background>
+	<background>
+		<name>Shining Star</name>
+		<url>http://www.nasa.gov/</url>
+		<artist>Nasa</artist>
+		<description>Shining Star</description>
+		<path>/cd/themes/gtr/4.png</path>
+		<start-line>30</start-line>
+	</background>
+	<background>
+		<name>Around the corner</name>
+		<url>http://www.nasa.gov/</url>
+		<artist>Nasa</artist>
+		<description>Around the corner</description>
+		<path>/cd/themes/gtr/5.png</path>
+		<start-line>40</start-line>
+	</background>
+	<background>
+		<name>Lights</name>
+		<url>http://www.nasa.gov/</url>
+		<artist>Nasa</artist>
+		<description>Lights</description>
+		<path>/cd/themes/gtr/6.png</path>
+		<start-line>50</start-line>
+	</background>
+	<background>
+		<name>The Moon</name>
+		<url>http://www.nasa.gov/</url>
+		<artist>Nasa</artist>
+		<description>The Moon</description>
+		<path>/cd/themes/gtr/7.png</path>
+		<start-line>60</start-line>
+	</background>
+	<background>
+		<name>Pink</name>
+		<url>http://www.nasa.gov/</url>
+		<artist>Nasa</artist>
+		<description>Pink</description>
+		<path>/cd/themes/gtr/8.png</path>
+		<start-line>70</start-line>
+	</background>
+	<background>
+		<name>The Sun</name>
+		<url>http://www.nasa.gov/</url>
+		<artist>Nasa</artist>
+		<description>The Sun</description>
+		<path>/cd/themes/gtr/9.png</path>
+		<start-line>80</start-line>
+	</background>
+	<background>
+		<name>The Moon</name>
+		<url>http://www.nasa.gov/</url>
+		<artist>Nasa</artist>
+		<description>The Moon</description>
+		<path>/cd/themes/gtr/10.png</path>
+		<start-line>90</start-line>
+	</background>
+</theme>

@@ -1,0 +1,99 @@
+<theme>
+	<about>
+		<name>Viperv6 Theme</name>
+		<author>Viktor Gars</author>
+		<email>tetris@vgsoftware.com</email>
+		<url>http://www.vgsoftware.com/</url>
+		<description>
+			This is the default tetris theme made by Viperv6.
+		</description>
+	</about>
+	<background>
+		<name>Background 1</name>
+		<url>http://viperv6.deviantart.com/</url>
+		<artist>Jens Tappendorf</artist>
+		<description>The is the first background</description>
+		<path>/cd/themes/default/img1.png</path>
+		<start-line>1</start-line>
+	</background>
+	<background>
+		<name>Background 2</name>
+		<url>http://viperv6.deviantart.com/</url>
+		<artist>Jens Tappendorf</artist>
+		<description>The is the second background</description>
+		<path>/cd/themes/default/img2.png</path>
+		<start-line>10</start-line>
+	</background>
+	<background>
+		<name>Background 3</name>
+		<url>http://viperv6.deviantart.com/</url>
+		<artist>Jens Tappendorf</artist>
+		<description>The is the 3'rd background</description>
+		<path>/cd/themes/default/img3.png</path>
+		<start-line>20</start-line>
+	</background>
+	<background>
+		<name>Background 4</name>
+		<url>http://viperv6.deviantart.com/</url>
+		<artist>Jens Tappendorf</artist>
+		<description>The is the 4'th background</description>
+		<path>/cd/themes/default/img4.png</path>
+		<start-line>30</start-line>
+	</background>
+	<background>
+		<name>Background 5</name>
+		<url>http://viperv6.deviantart.com/</url>
+		<artist>Jens Tappendorf</artist>
+		<description>The is the 5th background</description>
+		<path>/cd/themes/default/img5.png</path>
+		<start-line>40</start-line>
+	</background>
+	<background>
+		<name>Background 6</name>
+		<url>http://viperv6.deviantart.com/</url>
+		<artist>Jens Tappendorf</artist>
+		<description>The is the 6'th background</description>
+		<path>/cd/themes/default/img6.png</path>
+		<start-line>50</start-line>
+	</background>
+	<background>
+		<name>Background 7</name>
+		<url>http://viperv6.deviantart.com/</url>
+		<artist>Jens Tappendorf</artist>
+		<description>The is the 7'th background</description>
+		<path>/cd/themes/default/img7.png</path>
+		<start-line>60</start-line>
+	</background>
+	<background>
+		<name>Background 8</name>
+		<url>http://viperv6.deviantart.com/</url>
+		<artist>Jens Tappendorf</artist>
+		<description>The is the 8'th background</description>
+		<path>/cd/themes/default/img8.png</path>
+		<start-line>70</start-line>
+	</background>
+	<background>
+		<name>Background 9</name>
+		<url>http://viperv6.deviantart.com/</url>
+		<artist>Jens Tappendorf</artist>
+		<description>The is the 9'th background</description>
+		<path>/cd/themes/default/img9.png</path>
+		<start-line>80</start-line>
+	</background>
+	<background>
+		<name>Background 10</name>
+		<url>http://viperv6.deviantart.com/</url>
+		<artist>Jens Tappendorf</artist>
+		<description>The is the 10'th background</description>
+		<path>/cd/themes/default/img10.png</path>
+		<start-line>90</start-line>
+	</background>
+	<background>
+		<name>Background 11</name>
+		<url>http://viperv6.deviantart.com/</url>
+		<artist>Jens Tappendorf</artist>
+		<description>The is the 11'th background</description>
+		<path>/cd/themes/default/img11.png</path>
+		<start-line>100</start-line>
+	</background>
+</theme>

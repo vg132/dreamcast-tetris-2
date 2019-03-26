@@ -1,0 +1,27 @@
+Starting Tetris 2
+
+Just put your Tetris 2 game CD into your Dreamcast and power on.
+If you have a PAL Dreamcast you will get a TV Mode select screen where you can select between 50hz and 60hz mode, 50hz is standard PAL but 60hz is supported by most PAL TV’s. This selection is saved to your VMU when you save the game so you will only have to do this once. You can always change your TV Mode selection from the “Options” menu or by holding down “X” on the first controller when you start the game.
+
+
+Playing Tetris 2
+
+Tetris 2 offer four modes of play, Normal, Flip, Combat and Fast Combat. Combat and Fast Combat are only available when playing with two players.
+
+All modes are based on normal Tetris with small tweeks to the gameplay,
+
+Flip – here you can flip your field and start building from the other side, you can flip the field as much as you want.
+Combat – in this mode you have a power meter that is filled when you remove lines, 1 line is worth 5 point, 2 lines 15 points, 3 lines 25 point and 4 lines 50 point. When your power meter flashes you have 100 point and can now either send a solid (un removable) line to your opponent, this line will be added to the bottom of his field or you can remove a solid line from your field that your opponent has sent to you. You use the right trigger to give your opponent a solid block and your left trigger to remove a solid block from your own field.
+Fast Combat – just like normal combat but here you cant remove your own solid blocks.
+
+
+Background Music
+
+Tetris 2 supports two types of background music, MP3 and audio CD. Just insert a CD with MP3 files or a audio CD into your Dreamcast and it will start playing. You can turn on/off background music in the “Options” menu.
+IMPORTANT! You have to stop MP3 playback BEFORE you open the CD cover of your Dreamcast!
+You can use your analog stick to control the music, left for previus track, right for next track, down for stop and up for play.
+
+Theme System
+
+Themes are made up of a .theme XML file and background images. This files are put into there own directory and this directory must reside under the “/themes” directory on the game CD. The game scans the “/themes” directory at startup and loads all themes that are located in this directory. A list of all loaded themes can be found under “Options”->”Theme Browser”, press A to select a theme and get more information about that theme and them you can preview the theme by pressing “A” again or load the theme by pressing “B”.
+IMPORTANT! The game CD must be in the Dreamcast when you preview or load a theme! It is also recommended that you turn of playback of any MP3 music when you load a theme.

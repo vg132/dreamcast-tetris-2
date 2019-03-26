@@ -1,0 +1,59 @@
+<theme>
+	<about>
+		<name>Second Viperv6 Theme</name>
+		<author>Viktor Gars</author>
+		<email>tetris@vgsoftware.com</email>
+		<url>http://www.vgsoftware.com/</url>
+		<description>
+			This is the second viperv6 theme.
+		</description>
+	</about>
+	<background>
+		<name>Background 1</name>
+		<url>http://viperv6.deviantart.com/</url>
+		<artist>Jens Tappendorf</artist>
+		<description>The is the first background of the addon theme</description>
+		<path>/cd/themes/viperv6/img1.png</path>
+		<start-line>1</start-line>
+	</background>
+	<background>
+		<name>Background 2</name>
+		<url>http://viperv6.deviantart.com/</url>
+		<artist>Jens Tappendorf</artist>
+		<description>The is the second background of the addon theme</description>
+		<path>/cd/themes/viperv6/img2.png</path>
+		<start-line>2</start-line>
+	</background>
+	<background>
+		<name>Background 3</name>
+		<url>http://viperv6.deviantart.com/</url>
+		<artist>Jens Tappendorf</artist>
+		<description>The is the 3'rd background of the addon theme</description>
+		<path>/cd/themes/viperv6/img3.png</path>
+		<start-line>3</start-line>
+	</background>
+	<background>
+		<name>Background 4</name>
+		<url>http://viperv6.deviantart.com/</url>
+		<artist>Jens Tappendorf</artist>
+		<description>The is the 4'th background of the addon theme</description>
+		<path>/cd/themes/viperv6/img4.png</path>
+		<start-line>5</start-line>
+	</background>
+	<background>
+		<name>Background 5</name>
+		<url>http://viperv6.deviantart.com/</url>
+		<artist>Jens Tappendorf</artist>
+		<description>The is the 5th background of the addon theme</description>
+		<path>/cd/themes/viperv6/img5.png</path>
+		<start-line>6</start-line>
+	</background>
+	<background>
+		<name>Background 6</name>
+		<url>http://viperv6.deviantart.com/</url>
+		<artist>Jens Tappendorf</artist>
+		<description>The is the 6'th background of the addon theme</description>
+		<path>/cd/themes/viperv6/img6.png</path>
+		<start-line>10</start-line>
+	</background>
+</theme>

@@ -1,0 +1,91 @@
+<theme>
+	<about>
+		<name>Man in space</name>
+		<author>Viktor Gars</author>
+		<email>tetris@vgsoftware.com</email>
+		<url>http://www.vgsoftware.com/</url>
+		<description>
+			Man in space is a collection of photos taken from Nasa (http://www.nasa.com/) showing man in space.
+		</description>
+	</about>
+	<background>
+		<name>Launch</name>
+		<url>http://www.nasa.com/</url>
+		<artist>Nasa</artist>
+		<description>Space launch</description>
+		<path>/cd/themes/mis/1.png</path>
+		<start-line>1</start-line>
+	</background>
+	<background>
+		<name>Hi there!</name>
+		<url>http://www.nasa.com/</url>
+		<artist>Nasa</artist>
+		<description>A friendly wave</description>
+		<path>/cd/themes/mis/2.png</path>
+		<start-line>10</start-line>
+	</background>
+	<background>
+		<name>For sale</name>
+		<url>http://www.nasa.com/</url>
+		<artist>Nasa</artist>
+		<description>A space ship for sale</description>
+		<path>/cd/themes/mis/3.png</path>
+		<start-line>20</start-line>
+	</background>
+	<background>
+		<name>Working</name>
+		<url>http://www.nasa.com/</url>
+		<artist>Nasa</artist>
+		<description>Workin on a satelit</description>
+		<path>/cd/themes/mis/4.png</path>
+		<start-line>30</start-line>
+	</background>
+	<background>
+		<name>Launch 2</name>
+		<url>http://www.nasa.com/</url>
+		<artist>Nasa</artist>
+		<description>Space launch in dark</description>
+		<path>/cd/themes/mis/5.png</path>
+		<start-line>40</start-line>
+	</background>
+	<background>
+		<name>Open deck</name>
+		<url>http://www.nasa.com/</url>
+		<artist>Nasa</artist>
+		<description>A open deck</description>
+		<path>/cd/themes/mis/6.png</path>
+		<start-line>50</start-line>
+	</background>
+	<background>
+		<name>Man on moon</name>
+		<url>http://www.nasa.com/</url>
+		<artist>Nasa</artist>
+		<description>Man on moon</description>
+		<path>/cd/themes/mis/7.png</path>
+		<start-line>60</start-line>
+	</background>
+	<background>
+		<name>The star</name>
+		<url>http://www.nasa.com/</url>
+		<artist>Nasa</artist>
+		<description>A star</description>
+		<path>/cd/themes/mis/8.png</path>
+		<start-line>70</start-line>
+	</background>
+	<background>
+		<name>Hard working</name>
+		<url>http://www.nasa.com/</url>
+		<artist>Nasa</artist>
+		<description>Hard working</description>
+		<path>/cd/themes/mis/9.png</path>
+		<start-line>80</start-line>
+	</background>
+	<background>
+		<name>Back home</name>
+		<url>http://www.nasa.com/</url>
+		<artist>Nasa</artist>
+		<description>Back home on earth</description>
+		<path>/cd/themes/mis/10.png</path>
+		<start-line>90</start-line>
+	</background>
+</theme>

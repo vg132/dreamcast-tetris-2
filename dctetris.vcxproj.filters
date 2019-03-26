@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{19a9a82d-8ac4-42ac-815d-a17aba6b22c5}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm</Extensions>
+    </Filter>
+    <Filter Include="Source Files\theme">
+      <UniqueIdentifier>{abae3ae3-6a45-4fcf-95fc-827d6080b673}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\xml">
+      <UniqueIdentifier>{5cd8d9e1-2315-4374-9c1d-4e1d286a2e40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\sound">
+      <UniqueIdentifier>{45dd7a21-fb35-4fba-a16f-6282789e9e1d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{f979379a-fe2b-4465-b10c-c2d22300b11e}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc</Extensions>
+    </Filter>
+    <Filter Include="Header Files\theme">
+      <UniqueIdentifier>{ed2989f0-d1ec-4e48-a674-b53e15527f80}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\xml">
+      <UniqueIdentifier>{5eb94ec2-12e0-4a67-97fa-1aea7f0625f0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\sound">
+      <UniqueIdentifier>{6379788b-3e5d-4f6e-bc27-007af6e6b424}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\control.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\draw.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\field.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\highscore.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\player.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\tetris.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\theme\background.cpp">
+      <Filter>Source Files\theme</Filter>
+    </ClCompile>
+    <ClCompile Include="src\theme\themehandler.cpp">
+      <Filter>Source Files\theme</Filter>
+    </ClCompile>
+    <ClCompile Include="src\theme\themeinfo.cpp">
+      <Filter>Source Files\theme</Filter>
+    </ClCompile>
+    <ClCompile Include="src\xml\xmlparser.cpp">
+      <Filter>Source Files\xml</Filter>
+    </ClCompile>
+    <ClCompile Include="src\sound\cdda.cpp">
+      <Filter>Source Files\sound</Filter>
+    </ClCompile>
+    <ClCompile Include="src\sound\filemusic.cpp">
+      <Filter>Source Files\sound</Filter>
+    </ClCompile>
+    <ClCompile Include="src\sound\music.cpp">
+      <Filter>Source Files\sound</Filter>
+    </ClCompile>
+    <ClCompile Include="src\sound\sound.cpp">
+      <Filter>Source Files\sound</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\control.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\draw.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\field.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\game.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\highscore.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\player.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\tetris.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\theme\background.hpp">
+      <Filter>Header Files\theme</Filter>
+    </ClInclude>
+    <ClInclude Include="src\theme\themehandler.hpp">
+      <Filter>Header Files\theme</Filter>
+    </ClInclude>
+    <ClInclude Include="src\theme\themeinfo.hpp">
+      <Filter>Header Files\theme</Filter>
+    </ClInclude>
+    <ClInclude Include="src\xml\xmlparser.hpp">
+      <Filter>Header Files\xml</Filter>
+    </ClInclude>
+    <ClInclude Include="src\sound\cdda.hpp">
+      <Filter>Header Files\sound</Filter>
+    </ClInclude>
+    <ClInclude Include="src\sound\filemusic.hpp">
+      <Filter>Header Files\sound</Filter>
+    </ClInclude>
+    <ClInclude Include="src\sound\music.hpp">
+      <Filter>Header Files\sound</Filter>
+    </ClInclude>
+    <ClInclude Include="src\sound\sound.hpp">
+      <Filter>Header Files\sound</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Makefile" />
+  </ItemGroup>
+</Project>

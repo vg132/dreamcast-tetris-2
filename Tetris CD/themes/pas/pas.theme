@@ -1,0 +1,91 @@
+<theme>
+	<about>
+		<name>Planets and Stars</name>
+		<author>Viktor Gars</author>
+		<email>tetris@vgsoftware.com</email>
+		<url>http://www.vgsoftware.com/</url>
+		<description>
+			Pictures of planets and stars taken from Nasa (http://www.nasa.gov/).
+		</description>
+	</about>
+	<background>
+		<name>Neptune</name>
+		<url>http://www.nasa.gov/</url>
+		<artist>Nasa</artist>
+		<description>Neptune</description>
+		<path>/cd/themes/pas/1.png</path>
+		<start-line>1</start-line>
+	</background>
+	<background>
+		<name>Jupiter</name>
+		<url>http://www.nasa.gov/</url>
+		<artist>Nasa</artist>
+		<description>Jupiter</description>
+		<path>/cd/themes/pas/2.png</path>
+		<start-line>10</start-line>
+	</background>
+	<background>
+		<name>The Big Red Fire</name>
+		<url>http://www.nasa.gov/</url>
+		<artist>Nasa</artist>
+		<description>The Big Red Fire</description>
+		<path>/cd/themes/pas/3.png</path>
+		<start-line>20</start-line>
+	</background>
+	<background>
+		<name>The Sun</name>
+		<url>http://www.nasa.gov/</url>
+		<artist>Nasa</artist>
+		<description>The Sun</description>
+		<path>/cd/themes/pas/4.png</path>
+		<start-line>30</start-line>
+	</background>
+	<background>
+		<name>The Green Sun</name>
+		<url>http://www.nasa.gov/</url>
+		<artist>Nasa</artist>
+		<description>The Green Sun</description>
+		<path>/cd/themes/pas/5.png</path>
+		<start-line>40</start-line>
+	</background>
+	<background>
+		<name>Saturn</name>
+		<url>http://www.nasa.gov/</url>
+		<artist>Nasa</artist>
+		<description>Saturn</description>
+		<path>/cd/themes/pas/6.png</path>
+		<start-line>50</start-line>
+	</background>
+	<background>
+		<name>The Angry Sun</name>
+		<url>http://www.nasa.gov/</url>
+		<artist>Nasa</artist>
+		<description>The Angry Sun</description>
+		<path>/cd/themes/pas/7.png</path>
+		<start-line>60</start-line>
+	</background>
+	<background>
+		<name>Saturn</name>
+		<url>http://www.nasa.gov/</url>
+		<artist>Nasa</artist>
+		<description>Saturn</description>
+		<path>/cd/themes/pas/8.png</path>
+		<start-line>70</start-line>
+	</background>
+	<background>
+		<name>Unknown Space Picture 1</name>
+		<url>http://www.nasa.gov/</url>
+		<artist>Nasa</artist>
+		<description>Unknown Space Picture 1</description>
+		<path>/cd/themes/pas/9.png</path>
+		<start-line>80</start-line>
+	</background>
+	<background>
+		<name>Unknown Space Picture 2</name>
+		<url>http://www.nasa.gov/</url>
+		<artist>Nasa</artist>
+		<description>Unknown Space Picture 2</description>
+		<path>/cd/themes/pas/10.png</path>
+		<start-line>90</start-line>
+	</background>
+</theme>

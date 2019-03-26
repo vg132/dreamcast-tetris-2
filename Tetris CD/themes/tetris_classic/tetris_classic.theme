@@ -1,0 +1,19 @@
+<theme>
+	<about>
+		<name>Tetris Classic</name>
+		<author>Viktor Gars</author>
+		<email>tetris@vgsoftware.com</email>
+		<url>http://www.vgsoftware.com/</url>
+		<description>
+			The is the classic background taken from Tetris 1
+		</description>
+	</about>
+	<background>
+		<name>Background 1</name>
+		<url>http://www.vgsoftware.com/</url>
+		<artist>Kalel Ankla</artist>
+		<description>The is the first background</description>
+		<path>/cd/themes/tetris_classic/img1.png</path>
+		<start-level>1</start-level>
+	</background>
+</theme>
